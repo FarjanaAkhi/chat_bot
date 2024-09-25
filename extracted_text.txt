@@ -1,0 +1,1491 @@
+Message from the Chair  
+Welcome to the Department of Electrical and Computer Engineering (ECE) at North South University 
+(NSU). Whether you are a prospective or current student, a prospective faculty member, a parent, an 
+alumnus, a government or industry representative, or just a curious onlooker, I encourage you to browse 
+and find detailed information about our graduate and undergraduate programs, our faculty members, 
+their research interests, and the broad range of activities underway in the Dep artment.  
+I believe, the department is the most forward -looking, vibrant and dynamic department at North South 
+University (NSU). Since its inception in 1993 with a handful of students and only one undergraduate 
+program in Computer Science, the department has grown t o be the largest department at NSU with 
+more than 54 full -time faculty members, 35 part -time and visiting faculty members, approximately 5500 
+undergraduate students and 200 master’s students.  
+The ECE Department is committed to provide an outstanding educational experience for its students and 
+prepare them for the highest personal and professional growth. We believe in student -centered and 
+practice -oriented education to train the future workforc e and meet the challenges of existing and 
+emerging technologies of the 21st century. Thus we focus on hiring outstanding faculty members from 
+home and abroad, incorporate outcome based education system and build state -of-the-art teaching 
+facilities and res earch laboratories. Very recently, the department received accreditation for all its 
+undergraduate programs from the Board of Accreditation for Engineering and Technical Education 
+(BAETE), Bangladesh. At present, the department is actively seeking accredit ation from the Accreditation 
+Board for Engineering and Technology (ABET), USA.  
+Our students are broadly encouraged to gain out -of-the-classroom academic and research experiences, 
+produce engineering and scientific publications, and participate in various co -curricular activities. In 
+order to foster these activities, the department ma intains program -oriented and student -centric 
+engineering forums such as ACM and IEEE Student Branches.  
+We offer undergraduate and master’s degrees in three different disciplines: Computer Science and 
+Engineering (CSE), Electrical and Electronic Engineering (EEE) and Electronic and Telecommunication 
+Engineering (ETE). These disciplines are highly synergetic,  and since they are together in a single 
+department it gives us a unique advantage in making new discoveries and innovation for our students 
+and faculty members.  
+The department is very proud of its outstanding faculty members, all of whom have MS and/or Ph.D. 
+degrees primarily from the USA, Canada, UK, Japan, and Australia. We believe our department is the top 
+destination for faculty members who are willing to retu rn to Bangladesh from abroad.  
+Thank you for your interest in the Department of ECE at NSU. If you have any query, please do not 
+hesitate to contact me personally through  rajesh.palit@northsouth.edu . 
+Dr. Rajesh Palit  
+Professor & Chair  
+Department of Electrical and Computer Engineering  
+ 
+Mission Statement  ECE Vision  
+ECE department of NSU would like to be recognized as the role model to produce high caliber graduates, 
+undertake research to address challenging development issues through ECE inventions, and shape the 
+creation of innovation led ECE industry in developing economies for creating high paying jobs and 
+improving the quality of life.  
+ECE Mission  
+The missions of the Department of Electrical and Computer Engineering at NSU are:  
+i. To educate our students to meet high standards of excellence in Electrical and Computer 
+Engineering in preparation for professional careers and advanced studies.  
+ii. To create and disseminate new knowledge through basic and applied research in the Electrical 
+and Computer Engineering.  
+iii. To serve as a resource of Electrical and Computer Engineering expertise at the national, regional 
+and international levels.  
+iv. To provide policy and development leadership for the growth of innovation led Electrical and 
+Computer Engineering Industry in Bangladesh and other developing countries.  
+ECE Strategic Goals  
+The Department of ECE set the following six strategic goals to accomplish its mission and vision as well as 
+support the vision of NSU.  
+i. To increase the appeal of the ECE programs by obtaining international (ABET) and national 
+(BAETE) accreditation and make the programs more attractive, more student -centered, and 
+relevant to state -of-the-art technology.  
+ii. To create and continually evaluate ECE curricula that provide balanced education between 
+theoretical and practical aspects, between engineering and general education and that 
+effectively adapt to the continued global changes in technology and society.  
+iii. To provide our students with an integrated view of ECE by enhancing practical and design based 
+classes and to equip them with the skills necessary for think critically, creatively and life -long 
+learning.  
+iv. To provide research opportunities and experiences for our students who are more incline to 
+pursue carrier in academics and higher studies.  
+v. To provide necessary means and ways of continuously enhancing our faculty and staff, who are 
+the main assets and driving force to the ECE department.  
+vi. Development of global engineers by creating international programs through successful linkages 
+and partnerships with reputed foreign universities.  
+  
+ Contact Us  
+Department of Electrical and Computer Engineering  
+North South University  
+Plot # 15, Block # B, Bashundhara  
+Dhaka – 1229, Bangladesh  
+Phone: +880 -2-55668200 Ext. 1526, 1530  
+Email:  ece@northsouth.edu  
+ 
+Programs  
+The Department of Electrical and Computer Engineering (ECE) currently offers the following 
+undergraduate degree programs:  
+Effective from Fall 2014 and onward  
+▪ Bachelor of Science  in Computer Science and Engineering (BSCSE)  – 130 credit hours  
+▪ Bachelor of Science  in Electrical and Electronic Engineering (BSEEE)  – 130 credit hours  
+▪ Bachelor of Science  in Electronics and Telecommunication Engineering (BSETE ) – 130 credit 
+hours  
+The above degree programs refer to the revised curriculum incorporating university -wide broad -based 
+general education components  effective from Fall 2014 and later . 
+Prior to Fall 2014  
+▪ Bachelor of Science  in Computer Science and Engineering (BSCSE)  – 134 credit hours  
+▪ Bachelor of Science  in Electrical and Electronic Engineering (BSEEE)  – 135 credit hours  
+▪ Bachelor of Science  in Electronics and Telecommunication Engineering (BSETE ) – 128 credit 
+hours  
+Students who enroll under the curriculum prior to Fall 2014 and wish to transfer to the later curriculum 
+(effective from Fall 2014) may apply using the curriculum transfer form through the ECE Program office 
+located at SAC942  
+Prior to Fall 2012  
+Students enrolled prior to  Fall 2012  should refer to the appropriate General Catalog or contact the ECE 
+Program  Office (SAC942) for assistance.  
+ 
+Academic Advising  The Department of ECE  offers academic advising to all undergraduate students in BSCSE, BSEEE and 
+BSETE programs. The department developed its academic advising policies that incorporate the general 
+principles and guidelines of NSU -wide Academic Advising polici es. 
+The following Advising policies are applied to all undergraduate students under the Department of 
+ECE at NSU.  
+▪ Each ECE student will have an assigned academic advisor.  All ECE students are required to meet 
+with their assigned advisor at least once per semester prior to course registration.  
+▪ The department of ECE has a full -time designated person as Program Officer. Students may also 
+contact the ECE Program Officer for information related to program curriculum, prerequisite, 
+degree requirement analysis, and other policy matters.  
+▪ Each faculty advisor will maintain minimum office hours for academic advising throughout the 
+semester. Other times, students can meet their respective advisors by appointment. Students 
+are encouraged to seek out advising any time they have questions or nee d assistance.  
+▪ There will be a mandatory advising period every semester for the students who are under 
+probation or who have completed 110 credit hours or above.  
+▪ Students who have completed 110 credit hours or above must complete their Degree Analysis 
+Form and verify it by the ECE Program Officer before meeting their Faculty Advisor.  
+▪ ECE undergraduate students may get help from their Faculty Advisors in the following areas:  
+▪ To choose courses for future semesters according to their curriculum.  
+▪ To understand that students are on the right track towards their graduation and fulfilling 
+the program requirements.  
+▪ To discuss about various academic and non -academic difficulties students are facing in 
+the campus life and get advice on how to overcome those difficulties.  
+▪ To learn about any change in program policies or requirements.  
+▪ To discuss about their career goal and path in the chosen major.  
+Students may seek advice  from ECE Program officer  regarding ECE  procedures and forms, degree 
+analysis and petition, mandatory advising for students on Academic Probation, grade issues, and general 
+advising on academic issues. Students may walk in to the ECE Program Office accordin g to the following 
+walk -in advising hours:  
+Sunday through Friday  
+9:30 AM to 12:00 PM and 2:00 PM to 4:00 PM  
+Contact Information:  
+Mr. Saidur Rahman  
+Program Officer  
+Room: SAC 940  Email: saidur.rahman@northsouth.edu  
+Phone: +88 02 55668200 Ext – 1526  
+Career and Professional Advising  
+All ECE students can get advising related to professional career, job placement, internship etc. through 
+NSU C areer placement Center  (CPC)  
+ 
+Policies  
+Course Registration  
+▪ Students must meet all course pre -requisites and co -requisites when registering for courses. 
+Students are encouraged to follow the course flowchart for the on -going semester.  
+▪ For any course that comes with a lab session (credit or non -credit), students must register for 
+both the theory and lab components.  
+▪ Students are limited to take no more than 14 credit hours per semester. However, students with 
+good Academic standing (CGPA >= 3.5) may take up to 15 credits.  
+▪ A student must fulfil the English requirement by the fifth semester after admission. Failing this, 
+the student will not be allowed to register into other courses until the English requirement is 
+fulfilled.  
+Course Retaking  
+▪ Students may retake a course irrespective of their earned grade on that course  
+▪ Students may retake a course  maximum of one  time  
+Graduation  
+Following table shows the  minimum CGPA requirements  to apply for receiving a degree in any ECE 
+undergraduate majors:  
+Curriculum Component  Minimum CGPA Requirement  
+Overall  (including GED, major core, major elective, open elective)  2.0 
+All Major (CSE/EEE/ETE) core courses  2.0 
+ 
+MSCSE  
+Admission Requirements:  
+1. A four -year bachelor’s or equivalent degree in Computer Science/Computer 
+Engineering/Computer Science and Engineering/Information Technology or any computer -related areas from an accredited public or private university in Bangladesh or abroad with a 
+grade point average of at least 2.75 (in the 4.0 scale).  
+2. A three -year bachelor’s or equivalent degree in Computer Science/Computer 
+Engineering/Computer Science and Engineering/Information Technology or any computer -
+related areas from an accredited public or private university in Bangladesh or abroad with a 
+grade  point average of at least 2.75 (in the 4.0 scale) may be admitted on condition that at least 
+15 credits of foundation courses from the undergraduate curriculum must be completed at NSU 
+in order to be a regular student in the MS in Computer Science & Engin eering program.  
+3. Minimum grade point average of 2.75 (on the 4.0 scale)  
+4. A score of 1100 or CBT 302 in the Quantitative and Verbal part of the GRE General Test is 
+acceptable to waive the NSU admission test.  
+5. Two letters of recommendation, at least one must be from the faculty members of the last 
+institution attended.  
+Students having a background other than computer science (e.i. mathematics, economics) will be 
+required to take a number of undergraduate courses in order to qualify for the Master’s program.  
+Duration of MSCSE:  
+1. The minimum and maximum time to complete the degree requirements is 3 semesters and 5 
+years respectively from the initial enrolment of the Masters’ program.  
+2. The residency requirement is 21 credit hours including the Masters’ Thesis. A maximum of 9 
+credits is transferable from other universities.  
+Normal Cost of MSCSE Program:  
+1. Admission Fee: Tk 20,000 (nonrefundable), Tk 10,000 (caution fee) & RFID Tk 1000  
+2. Late Admission Fee: As per Academic Calendar  
+3. Tuition Fee:  Tk 4,500 per credit, i.e. Tk 13,500 for a 3 -credit course.  
+4. Computer Lab Fee: Tk 3,000 per semester.  
+5. Student Activity Fee: Tk 4,500 per semester.  
+6. Library Fee: Tk 1,500 per semester.  
+7. The total expenses in 30/33 credits course will be around  1,85,000 (Approximately)  for regular 
+MS students.  
+  
+Graduate Application Helpline:  01886271722  
+Email:  graduate.admissions@northsouth.edu  
+   
+MSEEE  
+Admission Requirements:  
+1. The students who have completed a B.S. in EE/EEE/ETE/ECE are eligible to apply for admission in 
+the EEE Master Program. The students who do not hold a B.S. degree in EE/EEE/ETE/ECE but 
+obtained a B.S. degree in other engineering programs/Applied Physics ma y enroll in the MS in 
+Electrical Engineering Program provided that they complete the remedial courses required by 
+the Department. Please contact the ECE program office to know details of these remedial 
+courses.  
+2. Minimum grade point average of 2.75 (on the 4.0 scale).  
+3. A score of 1100 or CBT 302 in the Quantitative and Verbal part of the GRE General Test is 
+acceptable to waive the NSU admission test  
+4. Two letters of recommendation, at least one must be from the faculty members of the last 
+institution attended  
+Students having a background other than computer science (e.i. mathematics, economics) will be 
+required to take a number of undergraduate courses in order to qualify for the Master’s program.  
+  
+Conditional Graduate Student Status:  
+Students who do not hold a B.S. degree in EE/EEE/ETE/ECE may be admitted as  Conditional Graduate 
+Student Status  in MS EEE program. However, students with conditional status must petition for the 
+admission to the Regular Graduate Status after completing the  Remedial courses . The students will be 
+required to pass Signals and Systems. In addition, they must demonstrate proficiency in three of the five 
+following areas of specialization by successfully completing or challenging the corresponding courses: 
+Electro magnetic, basic course on communication, electronics, control systems and, electrical machines 
+or energy conversion. In some cases, the EEE Graduate Admission Committee may require additional 
+remedial classes.  
+Remedial course list  (for conditional students whose B.S. is not in EE/EEE/ETE/ECE)  
+EEE111 Analog Electronics I  
+EEE141 Electric Circuit I  
+EEE221 Signals and Systems  
+EEE241 Electric Circuit II  
+EEE 311 Analog Electronics II  
+EEE313 Semiconductor Devices and Technology  
+EEE312 Power Electronics  
+EEE321 Introduction to Communication Systems  
+EEE 342 Control Engineering  
+EEE361 Electromagnetic Fields  EEE362 Electrical Transmission and Distribution Systems  
+EEE363 Electrical Machines  
+Thesis Option:  The MS -EEE thesis option requires a minimum of 33 credit hours that includes 21 credit 
+hours of formal coursework and  12 credit hours of thesis.   All MS thesis program students must complete 
+a written thesis. Upon completion of the thesis, an oral defense is required, which consists of a public 
+presentation of the student’s work to the department and the student’s supervisory committee. The 
+Supervisory Committee for MS degree thesis program consists of the student’s thesis supervisor and a 
+minimum of three (3) graduate faculty members selected by the EECS Graduate Program Committee.  
+The following are the specific requirements that must be met for the MS EEE thesis option:  
+▪ Coursework : Minimum 21 credit hours of graduate -level of coursework (500 and 600 level) 
+satisfying the following:  
+▪ Minimum five (5) graduate courses (15 Credit hours) must be from three (3) 
+different  Technical Interest Areas (TIAs)  
+▪ Minimum two (2) graduate courses (6 Credit hours) from any of the listed TIAs (possibly 
+used to increase student’s depth/breadth in a particular area of interest)  
+▪ Graduate Thesis :  12 credit hours of MS Thesis – EEE 600  
+▪ Oral Thesis Defense : Oral defense consists of a public presentation of the student’s work to the 
+department and the supervisory committee. Submission of a thesis written report must be 
+submitted to the Chairman of the Supervisory Committee at least two weeks prior to the act ual 
+presentation date.  
+ Non -thesis option:  The MS -ENG (non -thesis option) requires a minimum of 36 credit hours that includes 
+30 credit hours of TIA coursework and 6 credit hours from special topic and project courses.  
+Following are the specific requirements for MS -ENG (non -thesis option):  
+▪ Coursework : At least 30 credit hours of graduate -level coursework (500 and 600 level) satisfying 
+the following:  
+▪ Minimum six (6) graduate courses (18 Credit hours) must be from three (3) 
+different  Technical Interest Areas (TIAs) , with a minimum of two courses (6 Credit 
+Hours) from each of these three  
+▪ Minimum three (4) graduate courses (12 Credit hours) from any of the listed TIAs 
+(possibly used to increase student’s depth/breadth in a particular area of interest)  
+▪ Special Topic / Project course :  Minimum two (6   credit hours ) courses among the following 
+three courses:  
+EEE 596: Special Topic I (Advances in Electrical Engineering I)  
+EEE 597: Special Topic II (Advances in Electrical Engineering II)  
+EEE 598: Graduate Project  Guidelines of these special courses are available through the Chairman of the EECS Curriculum 
+Committee.  
+ General Rule : 
+The students must secure a CGPA of 2.75 for the award of the MS -EEE & MS -ENG degree both in thesis 
+and non -thesis options. A student must complete the required number of credits with a minimum CGPA 
+of 2.75 on a 4 point scale to earn the degree. To continue  in the program a student must maintain a 
+minimum CGPA of 2.75 at all levels of academic advancement. If in any semester the CGPA drops below 
+2.50 the student will be on academic probation. If a student remains on probation for two consecutive 
+semesters, h e/she will be dismissed from the program.  
+Duration of MSEEE:  
+1. The minimum and maximum time to complete the degree requirements is 3 semesters and 5 
+years respectively from the initial enrolment of the Masters’ program.  
+2. The residency requirement is 21 credit hours including the Masters’ Thesis. A maximum of 9 
+credits is transferable from other universities.  
+Normal Cost of MSEEE Program:  
+1. Admission Fee: Tk.20,000 (nonrefundable) & Tk.10,000 (caution fee) & RFID Tk.1000  
+2. Late Admission Fee: As per Academic Calendar  
+3. Tuition Fee:  Tk 4,500 per credit, i.e. Tk.13,500/ - for a 3 credit course.  
+4. Computer Lab Fee: Tk.2000 per semester.  
+5. Student Activity Fee: Tk.3000 per semester.  
+6. Library Fee: Tk.1000 per semester.  
+7. The total expenses for 33/36 credits course will be around  1,85,000 (Approximately)  for regular 
+MS students.  
+  
+Graduate Application Helpline:  01886271722  
+Email:  graduate.admissions@northsouth.edu  
+  
+  
+ 
+MSETE  
+Admission Requirements:  
+1. General requirements for admission to the Masters’ in ETE program: A 4 year bachelors or 
+equivalent degree in mathematics, applied physics, engineering, computer science & engineering, and information & communication technology from an accredited public or private 
+university in Bangladesh or abroad with a grade point average of at least 2.75 (in the 4.0 scale) 
+or minimum of 2nd class in BSc -Hons/MSc.  
+2. A 3-year bachelor’s or equivalent degree in mathematics, applied physics, engineering, computer 
+science & engineering, and information & communication technology or any related areas from 
+an accredited public or private university in Bangladesh or abroad w ith a grade point average of 
+at least 2.75 (in the 4.0 scale) or minimum of 2nd class (55% marks) in BSc -Hons/MSc may be 
+admitted on condition that at least 15 credits of remedial courses must be completed at NSU in 
+order to be a regular student in the MS in Electronic & Telecommunication Engineering program.  
+3. An acceptable score in the NSU Admission Test or a paper -based score of 1100 or CBT 302 in the 
+Quantitative and Verbal part of the Graduate Record Examination (GRE) General Test.  
+4. Two letters of recommendation  
+Students having a background other than computer science (e.i. mathematics, economics) will be 
+required to take a number of undergraduate courses in order to qualify for the Master’s program.  
+Duration of MSETE:  
+1. Minimum and maximum time to complete the degree requirements is 3 semesters and 5 years 
+respectively from the initial enrolment of the Masters’ program. Minimum and maximum time 
+to complete the degree requirements is 3 semesters and 5 years respectively fr om the initial 
+enrolment of the Masters’ program.  
+2. The residency requirement is 21 credit hours including the Masters’ Thesis. A maximum of 9 
+credits is transferable from other universities.  
+Normal Cost of MSETE Program:  
+1. Admission Fee: Tk.20,000 (nonrefundable) & Tk.10,000 (caution fee) & RFID Tk.1000  
+2. Late Admission Fee: As per Academic Calendar  
+3. Tuition Fee: Tk 4,500 per credit, i.e. Tk.13,500/ - for a 3 credit course.  
+4. Computer Lab Fee: Tk.2000 per semester.  
+5. Student Activity Fee: Tk.3000 per semester.  
+6. Library Fee: Tk.1000 per semester.  
+7. The total expenses in 33/36 credits course will be around  Tk. 1,85,000 (Approximately)  for 
+regular MS students.  
+  
+Graduate Application Helpline:  01886271722  
+Email:  graduate.admissions@northsouth.edu  
+  Faculty  
+ 
+Search:  
+    Research Areas  
+ Dr. Rajesh Palit [RjP]  
+Professor  & Chair  
+Ph.D. in Computer Engineering, University of 
+Waterloo, Canada  
+SAC 934  
+rajesh.palit@northsouth.edu  
++88 02 55668200 Ext – 1501, 1508  
+Homepage  | Profile  Cloud Computing and Distributed Systems  
+Data Networking and Information Security  
+Mobile, Wireless and Web Applications 
+Development  
+ Dr. M. Rokonuzzaman [RkZ]  
+Professor  
+Ph.D  from Memorial University of 
+Newfoundland, Canada  
+SAC 948  
+m.rokonuzzaman@northsouth.edu  
++88 02 55668200 Ext – 1510  
+Profile  Artificial Intelligence & Robotics  
+Technology Transfer and Policy  
+ Dr. K. M. A. Salam [KAS]  
+Professor  & Director, Office of Admissions  
+Ph.D from Muroran Institute of Tech., Japan  
+SAC 947  
+kazi.salam@northsouth.edu  
++88 02 55668200 Ext – 1509  
+Profile  Power Systems and Renewable Energy  
+Semiconductor Device and Technology  
+    Research Areas  
+ Dr. Mohammad Rashedur Rahman [RRn]  
+Professor  & Graduate Coordinator  
+Ph.D. in Computer Science, University of 
+Calgary, Canada  
+SAC 933  
+rashedur.rahman@northsouth.edu  
++88 02 55668200 Ext – 1507  
+Homepage  | Profile  Database and Information Systems  
+Artificial Intelligence & Robotics  
+Cloud Computing and Distributed Systems  
+ Dr. Hafiz Abdur Rahman [HzR]  
+Professor  
+Ph.D from University of British Columbia, 
+Vancouver, Canada  
+SAC 916  
+hafiz.rahman@northsouth.edu  
++88 02 55668200 Ext – 1535  
+Profile  Power Systems and Renewable Energy  
+Embedded Systems and Internet of Things 
+(IoT)  
+Modeling and Simulation  
+Data Networking and Information Security  
+ Dr. Shazzad Hosain [Szz]  
+Professor  
+PhD in Computer Science from Wayne State 
+University, USA  
+SAC 1029  
+shazzad.hosain@northsouth.edu  
++88 02 55668200 Ext – 1534  
+Homepage  | Profile  Mobile, Wireless and Web Applications 
+Development  
+Artificial Intelligence & Robotics  
+Database and Information Systems  
+Software Engineering  
+    Research Areas  
+ Dr. Mohammad Abdul Matin [mtn]  
+Professor  
+PhD (Newcastle University, UK)  
+SAC 915  
+mohammad.matin@northsouth.edu  
++88 02 55668200 Ext – 1541  
+Homepage  | Profile  RF, Microwave and Communication 
+Technology  
+Broadband Access and Communication 
+Technologies  
+ Dr. Nova Ahmed [NvA]  
+Professor  
+Ph.D in Computer Science, Georgia Institute of 
+Technology, USA.  
+SAC 927  
+nova.ahmed@northsouth.edu  
++88 02 55668200 Ext – 1524  
+Homepage  | Profile  Cloud Computing and Distributed Systems  
+Human Computer Interaction (HCI)  
+Artificial Intelligence & Robotics  
+Mobile, Wireless and Web Applications 
+Development  
+Database and Information Systems  
+Embedded Systems and Internet of Things 
+(IoT)  
+ Dr. Abu Sayed Mohammad Latiful Hoque [SLf]  
+Professor  
+PhD, University of Strathclyde, UK in 2003  
+SAC 1044B  
+abu.hoque@northsouth.edu  
++88 02 55668200 Ext – 6191  
+Homepage  | Profile  Database and Information Systems  
+Software Engineering  
+    Research Areas  
+ Dr. Salekul Islam [SLE]  
+Professor  
+SAC 932  
+salekul.islam@northsouth.edu  
+Profi   
+ Dr. Atiqur Rahman [Aqu]  
+Associate Professor  
+Ph.D   University of London, UK  
+SAC 1030  
+atiqur.rahman@northsouth.edu  
++88 02 55668200 Ext – 1517  
+Homepage  | Profile  RF, Microwave and Communication 
+Technology  
+Modeling and Simulation  
+Power Systems and Renewable Energy  
+ Dr. Lamia Iftekhar [Lih]  
+Associate Professor  
+Ph.D from Dartmouth College, USA  
+SAC 925  
+lamia.iftekhar@northsouth.edu  
++88 02 55668200 Ext – 1511  
+Homepage  | Profile  Artificial Intelligence & Robotics  
+Human Computer Interaction (HCI)  
+Modeling and Simulation  
+    Research Areas  
+ Dr. Mohammad Monirujjaman Khan [KMM]  
+Associate Professor  
+PhD, Electrical and Electronic Engineering, 
+Queen Mary University of London, UK  
+SAC 1027  
+monirujjaman.khan@northsouth.edu  
++88 02 55668200 Ext – 1565  
+Homepage  | Profile  Mobile, Wireless and Web Applications 
+Development  
+Modeling and Simulation  
+RF, Microwave and Communication 
+Technology  
+Cloud Computing and Distributed Systems  
+Embedded Systems and Internet of Things 
+(IoT)  
+Power Systems and Renewable Energy  
+Artificial Intelligence & Robotics  
+ Dr. Mahdy Rahman Chowdhury [Mdy]  
+Associate Professor  
+SAC 919  
+mahdy.chowdhury@northsouth.edu  
++88 02 55668200 Ext – 6190  
+Homepage  | Profile  RF, Microwave and Communication 
+Technology  
+Modeling and Simulation  
+Mobile, Wireless and Web Applications 
+Development  
+Broadband Access and Communication 
+Technologies  
+Signals and Image Processing  
+Artificial Intelligence & Robotics  
+ Dr. Sifat Momen [SfM1]  
+Associate Professor  
+PhD in Computer Science, University of 
+Sheffield, UK  
+SAC 918  
+sifat.momen@northsouth.edu  
++88 02 55668200 Ext – 6181  
+Profile  Artificial Intelligence & Robotics  
+    Research Areas  
+ Dr. Nabeel Mohammed [NbM]  
+Associate Professor  
+PhD in Computer Science, Monash University, 
+Australia  
+SAC 917  
+nabeel.mohammed@northsouth.edu  
++88 02 55668200 Ext – 6202  
+Profile  Artificial Intelligence & Robotics  
+Signals and Image Processing  
+ Dr. Ahsanur Rahman [ARa2]  
+Associate Professor  & Undergraduate 
+Coordinator(CSE)  
+PhD in Computer Science, Virginia Polytechnic 
+Institute and State University, Virginia, USA  
+SAC 914  
+ahsanur.rahman@northsouth.edu  
++88 02 55668200 Ext – 1566  
+Homepage  | Profile  Database and Information Systems  
+ Dr. Shahnewaz Siddique [SnS1]  
+Associate Professor  
+Phd, Aerospace Engineering, Georgia Institute 
+of Technology, Atlanta, Georgia, USA.  
+SAC 1019  
+shahnewaz.siddique@northsouth.edu  
++88 02 55668200 Ext – 1515  
+Profile  Artificial Intelligence & Robotics  
+Modeling and Simulation  
+    Research Areas  
+ Dr. Mohammad Ashrafuzzaman Khan [AzK]  
+Associate Professor  
+Ph.D., Computer Science, New Jersey Institute 
+of Technology, Newark,   NJ, USA.  
+SAC 1047  
+mohammad.khan02@northsouth.edu  
++88 02 55668200 Ext – 6184  
+Profile  Cloud Computing and Distributed Systems  
+Artificial Intelligence & Robotics  
+Software Engineering  
+Mobile, Wireless and Web Applications 
+Development  
+Modeling and Simulation  
+ Dr. Md Shahriar Karim [MSK1]  
+Associate Professor  
+Ph.D, Biological Engineering, Computational 
+Life Science (CLS), Purdue University, West 
+Lafayette, IN, USA.  
+SAC 1045B  
+shahriar.karim@northsouth.edu  
++88 02 55668200 Ext – 6373  
+Profile   
+    Research Areas  
+ Dr. Riasat Khan [RtK]  
+Associate Professor  & Undergraduate 
+Coordinator(EEE/ETE)  
+Ph.D. (Electrical and Computer Engineering), 
+New Mexico State University, USA  
+SAC 920  
+riasat.khan@northsouth.edu  
++88 02 55668200 Ext – 6382  
+Profile  Modeling and Simulation  
+Artificial Intelligence & Robotics  
+    Research Areas  
+ Dr. Nafisa Noor [NaNr]  
+Assistant Professor  
+PhD – Electrical Engineering, University of 
+Connecticut, Storrs, CT, USA  
+SAC 926  
+nafisa.noor@northsouth.edu  
++88 02 55668200 Ext – 6188  
+Homepage  | Profile  Semiconductor Device and Technology  
+Modeling and Simulation  
+ Dr. Shafin Rahman [SfR1]  
+Assistant Professor  
+Ph.D. in Engineering and Computer Science, The 
+Australian National University, Australia  
+SAC 921  
+shafin.rahman@northsouth.edu  
++88 02 55668200 Ext – 6187  
+Homepage  | Profile  Artificial Intelligence & Robotics  
+ 
+Dr. ASM Jahid Hasan [AJH]  
+Assistant Professor  
+PhD University of California, Riverside  
+SAC 1046A  
+jahid.hasan12@northsouth.edu  
+Profile  Modeling and Simulation  
+Power Systems and Renewable Energy  
+ 
+Dr. Mohammad Abdul Qayum [MAQm]  
+Assistant Professor  
+Ph.D. in Electrical Engineering (Computer 
+Engineering), New Mexico State University, USA  
+SAC 1044A  
+mohammad.qayum@northsouth.edu  
+Profile  Embedded Systems and Internet of Things (IoT)  
+Artificial Intelligence & Robotics  
+Cloud Computing and Distributed Systems  
+ 
+Dr. Fariah Mahzabeen [FMA]  
+Assistant Professor  
+SAC 11105   
+    Research Areas  
+fariah.mahzabeen01@northsouth.edu  
++88 02 55668200 Ext – 6192  
+Profile  
+ 
+Dr. Mohammad Shifat -E-Rabbi [MSRb]  
+Assistant Professor  
+SAC 1146  
+rabbi.mohammad@northsouth.edu  
++88 02 55668200 Ext – 6372  
+Homepage  | Profile   
+ 
+Dr. Maktuba Mohid Binni [MMBA]  
+Assistant Professor  
+SAC 1010B  
+maktuba.binni@northsouth.edu  
++88 02 55668200 Ext – 6383  
+Profile   
+ 
+Dr. Mohsin Sajjad  
+Assistant Professor  
+SAC 11104  
+mohsin.sajjad@northsouth.edu  
+Profile   
+ Mr. Iqbalur Rahman Rokon [IqR]  
+Senior Lecturer  
+MS from California State University, USA  
+SAC 1049  
+iqbalur.rahman@northsouth.edu  
++88 02 55668200 Ext – 1518  
+Profile   
+    Research Areas  
+ Mirza Mohammad Lutfe Elahi [MLE]  
+Senior Lecturer  
+M.Sc. in Computer Engineering, 
+University of Texas at Arlington, USA  
+SAC 922  
+lutfe.elahi@northsouth.edu  
++88 02 55668200 Ext – 1513  
+Homepage  | Profile  Artificial Intelligence & Robotics  
+ Ms. Silvia Ahmed [SvA]  
+Senior Lecturer  
+MSc from University of Stuttgart, 
+Germany  
+SAC 928  
+silvia.ahmed@northsouth.edu  
++88 02 55668200 Ext – 6207  
+Profile  Embedded Systems and Internet of Things 
+(IoT)  
+Human Computer Interaction (HCI)  
+Artificial Intelligence & Robotics  
+ Md. Naqib Imtiaz Hussain [NqH]  
+Senior Lecturer  
+MS, EEE, University of Colorado at 
+Boulder, USA (Y2003)  
+SAC 1045A  
+naqib.hussain@northsouth.edu  
++88 02 55668200 Ext – 6374  
+Profile  Technology Transfer and Policy  
+    Research Areas  
+ Ms. Tanjila Farah  
+Senior Lecturer  
+MASc. Engineering Science  
+SAC 929  
+tanjila.farah@northsouth.edu  
++88 02 55668200 Ext – 6370  
+Profile  Data Networking and Information Security  
+Database and Information Systems  
+Artificial Intelligence & Robotics  
+ Md. Shahriar Hussain [HSM]  
+Senior Lecturer  
+M.Sc in Communication Technology, 
+University of Ulm, Germany  
+SAC 11103  
+shahriar.hussain01@northsouth.edu  
++88 02 55668200 Ext – 6375  
+Profile  Human Computer Interaction (HCI)  
+Artificial Intelligence & Robotics  
+ Ms. Syeda Sarita Hassan [SSH1]  
+Senior Lecturer  
+M.Sc in Communications Engineering, 
+Aalto University, Finland.  
+SAC 1189  
+syeda.hassan@northsouth.edu  
++88 02 55668200 Ext – 6378  
+Profile  RF, Microwave and Communication 
+Technology  
+    Research Areas  
+ Mr. Intisar Tahmid Naheen [ITN]  
+Senior Lecturer  
+M.Sc in Information and Communication 
+Engineering, Techincal University of 
+Darmstadt, Germany  
+SAC 1185  
+intisar.naheen@northsouth.edu  
++88 02 55668200 Ext – 6387  
+Profile  Artificial Intelligence & Robotics  
+RF, Microwave and Communication 
+Technology  
+ 
+Ms. Tanzilah Noor Shabnam [TnS1]  
+Senior Lecturer  
+SAC 1191  
+tanzilah.shabnam@northsouth.edu  
++88 02 55668200 Ext – 6388  
+Profile   
+ Mr. Abu Obaidah [AbO]  
+Lecturer  
+MS in Electrical Engineering, University 
+of Akron, Ohio, USA  
+SAC 1023  
+abu.obaidah@northsouth.edu  
++88 02 55668200 Ext – 1514  
+Profile  Mobile, Wireless and Web Applications 
+Development  
+ Mr. Syed Fateh Al Kastur [FKr]  
+Lecturer  
+MS from University of Arkansas, USA  
+SAC 930  
+syed.kastur@northsouth.edu  
++88 02 55668200 Ext – 1512  
+Profile  Modeling and Simulation  
+    Research Areas  
+ Ms. Meem Tasfia Zaman [MEZ]  
+Lecturer  & Lab Coordinator  
+  
+SAC 11105  
+zaman.tasfia@northsouth.edu  
++88 02 55668200 Ext – 6189  
+Profile  Power Systems and Renewable Energy  
+Semiconductor Device and Technology  
+Artificial Intelligence & Robotics  
+ Mr. Rifat Ahmed Hassan [RIH]  
+Lecturer  
+ 
+ 
+SAC 1179  
+rifat.hassan02@northsouth.edu  
++88 02 55668200 Ext – 6204  
+Profile  Mobile, Wireless and Web Applications 
+Development  
+Software Engineering  
+Database and Information Systems  
+Embedded Systems and Internet of Things 
+(IoT)  
+Human Computer Interaction (HCI)  
+ Mr. Muhammad Shafayat Oshman 
+[MUO]  
+Lecturer  
+Master of Computer Science (MCS), 
+Carleton University, Canada  
+SAC 1181  
+muhammad.oshman@northsouth.edu  
++88 02 55668200 Ext – 6376  
+Homepage  | Profile  Cloud Computing and Distributed Systems  
+Data Networking and Information Security  
+Software Engineering  
+    Research Areas  
+ Mr. Md. Ishan Arefin Hossain [IAH]  
+Lecturer  
+MSc in Computer Science, Teesside 
+University, UK  
+SAC 1186  
+ishan.hossain@northsouth.edu  
++88 02 55668200 Ext – 6193  
+Homepage  | Profile  Embedded Systems and Internet of Things 
+(IoT)  
+Artificial Intelligence & Robotics  
+ 
+Mr. AKM Iqtidar Newaz [IqN]  
+Lecturer  
+SAC 1140  
+iqtidar.newaz@northsouth.edu  
++88 02 55668200 Ext – 6197  
+Profile   
+ Mr. Omar -Ibne Shahid [OISD]  
+SAC 1147  
+omar.shahid@northsouth.edu  
++88 02 55668200 Ext – 6384  
+Profile  Artificial Intelligence & Robotics  
+Human Computer Interaction (HCI)  
+ Mr. Nabil Bin Hannan [NLH]  
+Lecturer  
+PhD in Computer Science, University 
+of Waterloo, Canada (ongoing).  
+SAC 1192  
+nabil.hannan@northsouth.edu  
+Profile  Human Computer Interaction (HCI)  
+Database and Information Systems  
+Embedded Systems and Internet of Things 
+(IoT)  
+Mobile, Wireless and Web Applications 
+Development  
+ 
+Mr. Shaurov Das [SVD]  
+Lecturer  
+SAC 1193   
+    Research Areas  
+shaurov.das@northsouth.edu  
+Profile  
+ Mr. M Maksud Alam  
+Senior Lecturer  ( On Leave )  
+PhD in ECE (Ongoing), McMaster 
+University, ON, Canada.  
+ 
+maksud.alam@northsouth.edu  
+Homepage  | Profile  Signals and Image Processing  
+RF, Microwave and Communication 
+Technology  
+Broadband Access and Communication 
+Technologies  
+ Ms. Rummana Rahman  
+Senior Lecturer  ( On Leave )  
+MS in Electrical and Computer 
+Engineering  , Rutgers, The State 
+University of New Jersey, USA  
+ 
+rummana.rahman@northsouth.edu  
+Profile   
+ Ishtiaque Hossain  
+Senior Lecturer  ( On Leave )  
+MS from Western University, Canada  
+ 
+ishtiaque.hossain@northsouth.edu  
+Homepage  | Profile  Artificial Intelligence & Robotics  
+Signals and Image Processing  
+ Mr. Rashed Shelim  
+Senior Lecturer  ( On Leave )  
+MS in  Telecommunication 
+Engineering, RWTH Aachen 
+University, Germany  
+ Broadband Access and Communication 
+Technologies  
+Mobile, Wireless and Web Applications 
+Development  
+    Research Areas  
+rashed.shelim@northsouth.edu  
+Profile  RF, Microwave and Communication 
+Technology  
+ Ms. Tamanna Motahar  
+Senior Lecturer  ( On Leave )  
+Ph.D in Computer Science (Ongoing), 
+University of Utah, USA  
+ 
+tamanna.motahar@northsouth.edu  
+Homepage  | Profile  Human Computer Interaction (HCI)  
+Mobile, Wireless and Web Applications 
+Development  
+Embedded Systems and Internet of Things 
+(IoT)  
+Modeling and Simulation  
+ Adnan Firoze  
+Lecturer  ( On Leave )  
+MS in Computer Science, Columbia 
+University, NY, USA  
+ 
+adnan.firoze@northsouth.edu  
+Homepage  | Profile  Signals and Image Processing  
+Artificial Intelligence & Robotics  
+Database and Information Systems  
+Modeling and Simulation  
+ Mr. Abdullah -Al- Mamun  
+Lecturer  ( On Leave )  
+PhD in Computer Science (ongoing), 
+Purdue University, West Lafayette, 
+Indiana, USA  
+ 
+abdullah.mamun03@northsouth.edu  
+Profile  Database and Information Systems  
+Artificial Intelligence & Robotics  
+    Research Areas  
+ Mr. Rishad Arfin  
+Lecturer  ( On Leave )  
+M.A.Sc. in Electrical & Computer 
+Engineering (ECE), McMaster 
+University, Canada  
+ 
+rishad.arfin@northsouth.edu  
+Profile  Modeling and Simulation  
+RF, Microwave and Communication 
+Technology  
+Semiconductor Device and Technology  
+Signals and Image Processing  
+ Mr. Zunayeed Bin Zahir  
+Lecturer  ( On Leave )  
+M.S. in Electrical Engineering, The 
+State University of New York at 
+Buffalo, New York, USA  
+ 
+zunayeed.zahir01@northsouth.edu  
+Profile  RF, Microwave and Communication 
+Technology  
+Data Networking and Information Security  
+Broadband Access and Communication 
+Technologies  
+ AKM Bahalul Haque  
+Lecturer  ( On Leave )  
+D.Sc. Software Engineering 
+(Ongoing), LUT University, Finland  
+ 
+bahalul.haque@northsouth.edu  
+Homepage  | Profile  Data Networking and Information Security  
+Cloud Computing and Distributed Systems  
+Mobile, Wireless and Web Applications 
+Development  
+Software Engineering  
+    Research Areas  
+ Shaikh Shawon Arefin Shimon  
+Lecturer  ( On Leave )  
+Ph. D, Computer Science,  University 
+of Waterloo (Ongoing)  
+ 
+shaikh.shimon@northsouth.edu  
+Homepage  | Profile  Human Computer Interaction (HCI)  
+Software Engineering  
+Mobile, Wireless and Web Applications 
+Development  
+ Mr. Fahimul Haque  
+Lecturer  ( On Leave )  
+Master of Science (MSc), Electrical 
+Engineering,  The University of 
+Calgary, Canada, 2016 -2018  
+ 
+ 
+fahimul.haque02@northsouth.edu  
+Profile   
+ 
+  Research Areas  
+ Ahnaf Rashik Hassan  
+Lecturer  ( On Leave )  
+MASc  in Biomedical Engineering, 
+University of Toronto (2018)  
+ 
+ahnaf.hassan@northsouth.edu  
+Homepage  | Profile  Signals and Image Processing  
+    Research Areas  
+ Mr. Ahmed Fahmin  
+Lecturer  ( On Leave )  
+Master of Information Technology (with 
+Distinction), The University of 
+Melbourne, Australia  
+ 
+ahmed.fahmin@northsouth.edu  
+Profile  Database and Information Systems  
+Cloud Computing and Distributed Systems  
+Artificial Intelligence & Robotics  
+ Ms. Ashfia Binte Habib  
+Senior Lecturer  ( On Leave )  
+MSc. from Wichita State University, 
+Kansas, USA.  
+SAC 1192  
+ashfia.habib@northsouth.edu  
++88 02 55668200 Ext – 6194  
+Homepage  | Profile  Artificial Intelligence & Robotics  
+Signals and Image Processing  
+Modeling and Simulation  
+ Dr. Tanzilur Rahman  
+Associate Professor  ( On Leave )  
+(On Leave)  
+SAC 1024  
+tanzilur.rahman@northsouth.edu  
++88 02 55668200 Ext – 6182  
+Homepage  | Profile  Embedded Systems and Internet of Things (IoT)  
+Modeling and Simulation  
+Semiconductor Device and Technology  
+Signals and Image Processing  
+ 
+Dr. Nadia Anam  
+Assistant Professor  ( On Leave )  
+PhD, The University of Sydney  
+SAC 1010A  
+nadia.anam@northsouth.edu  Modeling and Simulation  
+Semiconductor Device and Technology  
+Signals and Image Processing  
+Power Systems and Renewable Energy  
+    Research Areas  
++88 02 55668200 Ext – 6371  
+Profile  
+ 
+Mr. Tarek Ibne Mizan  
+Senior Lecturer  ( On Leave )  
+SAC 931  
+tarek.mizan@northsouth.edu  
++88 02 55668200 Ext – 6377  
+Profile   
+    
+ Mr. Md Rabiul Karim Khan  
+Senior Lab Instructor  
+SAC 1021  
+rabiul.khan@northsouth.edu  
+Profile  
+ Mr. Mehrab Hossain Likhon  
+Senior Lab Instructor  
+M.Sc  in Electrical and Electronic Engineering (EEE),  North South University  
+SAC 1052G  
+mehrab.hossain@northsouth.edu  
++88 02 55668200 Ext – 6196  
+Profile  
+    Research Areas  
+ Ms. Tabia Hossain  
+Lab Instructor  
+M.Sc. in Electrical & Electronic Engineering, North South University  
+SAC 1052G  
+hossain.tabia@northsouth.edu  
++88 02 55668200 Ext – 6197  
+Profile  
+ 
+Fowzia Shamsunnahar  
+Lab Officer  
+SAC 1052  
+fowzia.shasunnahar@northsouth.edu  
+Profile  
+ 
+Marufa Ferdausi  
+Lab Officer  
+SAC 944  
+marufa.ferdausi01@northsouth.edu  
+Profile  
+ 
+Monamy Islam  
+Lab Instructor  
+SAC 1052  
+monamy.islam@northsouth.edu  
++88 02 55668200 Ext – 6379  
+Profile  
+    Research Areas  
+ Mr. Shitangshu Shekhar Halder  
+Assistant Lab Officer  
+SAC 504  
+shitangshu.halder@northsouth.edu  
+Profile  
+ Mr. Sk. Raziul Ahasan  
+Assistant Lab Officer  
+SAC 501  
+raziul.ahasan@northsouth.edu  
+Profile  
+Computer and Engineering Club  
+ 
+North South University Computer and Engineering Club (NSU CEC) is the one and only 
+Engineering club in ECE department of North South University, established in Fall 2015, 
+affiliated from three of the most reputed clubs of NSU, which are NSU Computer Club 
+(NSUCC), NSU Wireless Forum (NSU WF) and NSU Society of Science, Engineering and 
+Technology (NSU SSET). NSUCEC has devoted itself towards one large goal, ‘Creating Tech 
+Leaders of Tomorrow’, with all the active members of CC, WF, and SSET. The main objecti ve of 
+NSUCEC is to promote the ECE department of NSU to offer an extensive study of the IT and 
+Telecom industries of Bangladesh through seminars, workshops, publications and study tours. It 
+is also the mission of NSUCEC to create a relationship between ind ustries and the academy.  
+ 
+  
+NSU CEC has already begun its journey with very promising results by organizing the 
+Orientation program of TOP -UP IT training program in NSU run by the IT Division of Bangladesh 
+Government. We received over 600 membership requests from the NSU students. Mo reover, 
+also participated in the NSU Club Fair 2015 by setting up an elegant booth where participants 
+challenged each other into dance battles on many different famous songs. Soon later, CEC 
+arranged a field trip as a means of an ice -breaking program for t he new recruits. NSUCEC also 
+got the opportunity to organize the mega computing event ACM ICPC for the previous three 
+years and a public lecture on ‘The Frontiers of Science and Pathways for Discoveries in the 21st 
+century’ delivered by Dr. Zahid Hasan, on  26th November 2015 in the campus auditorium of 
+NSU. Besides, NSUCEC also organized their own event, Info Fest V.2 included three 
+informative seminars regarding information technology and featured a workshop on Robotics for 
+technology enthusiast NSU studen ts. The event tagline was, “Technology for future”. NSU 
+hosted its first ‘Capstone Project Showcase’ on 1st December 2015 which was organized by the 
+members of CEC. NSUCEC participated in the 24 years celebration of NSU which took place 
+from 3rd March to 1 1th March 2016. Throughout the celebration NSUCEC had a booth which 
+was an instant hit. NSUCEC also arranged different programs of the grand celebration event 
+including the Tech Giant Meet -Up (Season 1) in collaboration with NSU Alumni Association of 
+School of Engineering and Physical Sciences (AASEPS). After that, NSUCEC arranged a 
+Women Techmakers seminar in the middle of March 2016 by Women Techmakers group, which 
+is associated with GDG. Along with that, a seminar on NASA space app challenge by BASIS 
+Students Forum was also organized. In October 2016, NSUCEC hosted a pro gram on Digital 
+World 2016 campus activation in collaboration with BASIS Students Forum. NSUCEC has 
+organized its major event Cybernauts, which is one of the biggest National IT events in all over 
+Bangladesh. This was a 4 -day long event which was held from  28th to 31st October 2016 where 
+it covers 4 competitions: National Programming Contest, Line Follower Robotics Contest, 
+Engineering Project Showcase, and Cyber Athletics. NSUCEC has conducted a seminar on 
+“Career in freelancing” by Codertrust, which is a freelancing training institute of Bangladesh. In 
+January 2017, BASIS SoftExpo campus activation program was arranged by NSUCEC in 
+collaboration with BASIS Students Forum.   
+NSU CEC organized Cybernauts 2018 from 18th to 25th March 2018 with segments including 
+National Programming Contest, Engineering Project Showcase (Senior and Junior Level), Line 
+Follower Robot Contest and Cyber Athletics.  
+For the very first time, ‘Cybernauts’ provided an opportunity to the students of schools & 
+colleges to showcase their talents and innovative skills in the Junior Division of the Engineering 
+Project Showcase. More than 1000 tech -lover participants from all over Bangladesh had 
+participated in this platform for sharing their unique experiences. Moreover, champion teams & 
+runner -up teams won total prize money worth 500k taka, gift vouchers and a lot more of exciting 
+goodies. On December 2018, NSUCEC organized R oboQuest v1.0 primarily consisting of two 
+segments, Robo Fight, and Robo Soccer. Robo fight was the segment in which two or more 
+custom -built robots created by participating NSU students used various tactics to destroy or 
+disable their competitor’s robot. Robo Soccer, on the other hand, used custom -built robots to 
+orchestrate a unique game of soccer between teams consisting of robot players. Both the 
+segments were incredibly amusing to the audience and kept them on the edge of their seats for 
+the entire dur ation. The champion & runner -up teams won total prize money worth 75k, gift 
+vouchers, and many more exciting goodies. The organizers of this competition think this 
+daylong event was a potent platform for the students of NSU to demonstrate their skills and 
+innovative ideas on robotics and achieve practical experience. Furthermore, it allowed students 
+of different disciplines to come together, exercise team building and polish their communication 
+skills. NSUCEC also organize fun events including one day tours  and sporting events consisting 
+of cricket and football tournaments.  
+ 
+NSUCEC has still been performing brilliantly from its foundation. And it also plans to take its 
+activities to an international level. Also, we started to collaborate with universities of different 
+countries to organize international IT innovation and Engin eering Olympiads. Our motto is to 
+organize events for the NSU students and to promote and spread the level of honor not just of 
+the Department of Electrical and Computer Engineering (ECE) but of the whole School of 
+Engineering and Physical Science (SEPS) o f NSU.  
+ 
+Faculty Advisor :  Mr. Zunayeed Bin Zahir  
+Lecturer, Department of Electrical & Computer Engineering  
+North South University.  
+Email:  zunayeed.zahir01@northsouth.edu  
+  
+Name  Designation  Phone  Email  
+Arona Dorin 
+Chowdhury  President  01790770662  arona.dorin@northsouth.edu  
+S.M. Abdul  Ahad  Vice President  01836851185  abdul.ahad@northsouth.edu  
+Muhammad Sakib 
+Khan  General Secretary 
+and Treasurer  
+(In Charge)  01687424663  muhammad.sakib@northsouth.edu  
+Fahimuzzaman  Joint Secretary  01719000724  fahimuz.zaman@northsouth.edu  
+Ahmed Mostafa 
+Sunny  Director, Media & 
+External Affairs  01709133311  ahmed.mostafa@northsouth.edu  
+Md Adnan Shariar  Director, Logistics & 
+Operations  01767101131  adnan.shariar@northsouth.edu  
+Mahmudur Rashid 
+Aurko  Director, Research 
+& Development  01750106286  mahmudur.rashid@northsouth.edu  
+Khandokar 
+Shafkatuzzaman  Director, Promotions  01685823653  shafkatuzzaman.khandokar@northsouth.edu  
+Jesia Quader Yuki  Director, 
+Publications  01766556256  jesia.quader@northsouth.edu  
+ 
+How to join:  
+NSUCEC is a platform for all the engineering enthusiasts who seek to attain knowledge upon all 
+the things relating to technology.  
+To be a part of this tech club, the applicant should be a student of NSU currently studying in one 
+of the departments which lie under SEPS.   A student who is at max at his/her fourth semester 
+can apply. He/she should also have the eagerness and passion to know all about technology. 
+Those who have an undying passion for all of the tech stuff, including ICT, Pro gramming and 
+Robotics, NSUCEC is the best platform for them. Students, who have willpower, dedication, and 
+resilience, can become an asset for this glorious club in the future.  
+NSUCEC recruits new member almost every year through a recruitment program, where 
+students have to fill up a form with a short written test. After that, they have to give a short 
+interview through which they become a part of the club.  
+Wings of NSUCEC:  
+BASIS Student Forum  
+BASIS Students’ Forum is the community of IT knowledge focused on empowering the IT 
+profession by evolving its student members to their full potential as a professional and or 
+entrepreneur. BASIS deems it as a Social contribution towards the long term nati onal vision of 
+becoming a technology -driven knowledge economy, particularly through engaging with the 
+young generation for motivating and guiding them for becoming future technology leaders. Thus 
+it is the need of the hour because the students of today are  the future leaders and anchors of 
+the country. This pool of talented youth or young generations needs to be mentored for the 
+future.  
+Students enrolled in an IT -related major at a university or college who are looking for careers 
+within the IT field or ICT sector or who want to become IT Professional or entrepreneurs will find 
+joining it a step in the right direction. Besides the sharing  of ideas with other IT students and 
+faculty members on campus, being a member of the Forum they will be able to hear speakers 
+and IT experts present on current technical and management topics at Student Chapter 
+meetings as well as participate in various a ctivities and events all year round.  
+BASIS Students’ Forum’s Motto: “Show your commitment to the ICT sector or profession – 
+provide a voice for the future”  
+Their vision is to provide numerous opportunities to advance the students IT knowledge to 
+become entrepreneurs and business skills to meet the demand skills of the new IT business 
+professional. And the main aim of the Forum is to gather and  form a pool of talented students of 
+all the public and private universities of Bangladesh together in a single platform by providing 
+education programs for advancing technology and business skills to the students, leadership 
+development opportunities, networking, peer me ntoring, and knowledge sharing and online 
+resources for the students. This step will help to create a bridge between the IT industry and the 
+universities.  
+GDG NSU Chapter  
+This GDG NSU chapter is basically a Google Developer Groups, especially for developers who 
+are interested in Google’s developer technology, everything from the Android, App Engine, and 
+Google Chrome platforms to generate APIs like the Maps API, YouTube API , and Google 
+Calendar API.  
+A GDG is mainly run by passionate individuals in the developer community. It is a place to learn 
+about Google Technologies and Tools for developers and to see what local companies and 
+developers are doing with these technologies. GDG also focused on develo pers and 
+educational technical content. It also opens to the public with a public membership and a place 
+to meet cool and smart people in tech. . . . However, at the core, GDGs are focused on 
+developers and technical content, and the core audience should b e developers also.  
+Google’s Women Techmakers  Google’s Women Techmakers program helps us to create a supportive global community in 
+which women can connect, be inspired, and encourage each other to realize their passions. It 
+provides visibility, community, and resources for women in technology. It als o provides 
+opportunities to develop industry needed skillsets, aid career development, and support women 
+to become industry leaders in all phases of their careers.  
+Women Techmakers is continually launching global scalable initiatives and piloting new 
+programs to support and empower women in the industry. Their vision is to showcase the work 
+and passions of women in the technology industry by providing a platform to c elebrate their 
+talents and spotlight role models. Google strives to cultivate a wholly inclusive workplace around 
+the globe. A key component of that vision is empowering women to pursue their dreams and 
+build tools that change the world. And to promote env ironment inclusivity for women in 
+technology, as well as celebrate women leading the industry.  
+Their main motive is to encourage women to work in IT sectors.  
+Firefox Community of NSU (Mozilla Campus Club)  
+It’s a global community of technologists, thinkers, and builders who work together to keep the 
+Internet alive and accessible, so people worldwide can be informed contributors and creators of 
+the Web. This community brings people together locally to build t he open web on University and 
+College campuses worldwide. Their vision is to spark a movement, a loud voice, a breeding 
+ground for new ideas, a massive force, and a deep talent pool that powers the open web to new 
+heights.  
+Their mission is to ensure the Internet is a global public resource, open and accessible to all. An 
+Internet that truly puts people first, where individuals can shape their own experience and are 
+empowered, safe and independent. The Internet is more than c omputers and code. The Internet 
+is about people. And interacting with others to share, learn, teach, protect and build upon 
+platforms, to make things that matter.  
+At the start of each year, the community plan the impact they want to have for the open web and 
+then hack and build on a combination of recommended activities and their own open -source 
+projects to make a difference for the web, other campuses, and communit ies. Thus, they bring 
+out students with a passion for technology together.  
+For more information:  
+e-mail – info.nsucec@gmail.com  
+Facebook Page – https://www.facebook.com/nsucc/  
+Instagram Page – nsu_cec_  
+YouTube Channel – https://www.youtube.com/channel/UCIakDcYTTMgan9CZ4ET6VvA  
+LinkedIn – NSU Computer & Engineering Club  
+ 
+IEEE Student Branch   
+The IEEE is dedicated to promoting technological progress, innovation and excellence for the 
+benefit of humanity. We are a technical subunit of IEEE societies which associates with valuable 
+resources available from IEEE. We are North South University’s onl y internationally recognized 
+student organization for Engineers and computer scientists. It provides an opportunity for 
+student members to begin networking in their areas of interest, and future profession.  
+A group of enthusiasts were brought together and entrusted upon the thriving vision to form an 
+active and successful student chapter of IEEE.  
+We envision to serve, inspire and get inspired to change our community and cultivate our fellow 
+engineers in their relative engineering fields through interactive learning, various 
+projects/workshops, technical visits and field trips that will help them to gain a better 
+understanding of the professional environment and technical progress and enable t heir careers.  
+In addition, we also consist of affinity groups like IEEE Women in Engineering (WIE), WIE is the 
+largest international professional organization dedicated to promoting women engineers and 
+scientists and inspiring girls around the world to follow their acad emic interests to a career in 
+engineering.  
+In the past years, we have hosted a multitude of events including “Google Business Group 
+Sonargaon presents The Pathfinders” and “Seminar on International Telecommunications in 
+Bangladesh”, IEEE Day 2013  and IEEE Day 2014.  
+We have also received many accolades in the past year as well, winning the “Most Promising 
+IEEE Student Award” and “Most Promising Branch Counselor 2013” won by Dr. Lamia Iftekhar, 
+our former branch counselor and the current Vice President of IEEE Women In  Engineering 
+(WIE) Affinity Group. IEEE North South Branch has also won the award for The Largest 
+Gathering at the IEEE Day 2013 Photo Contest, Best Website in the IEEE Student Branch 
+Website Contest for Region 10 (Asia & Pacific) and IEEE Global Website C ontest 2014  
+How to join  
+We hold recruitment around every year followed by an ice breaking session to welcome the new 
+recruits and introduce them to our community.  
+In addition, to be an official student member of IEEE, a student must enroll himself by paying a 
+small amount for an annual membership. The membership allows the student to be provided 
+with many privileges that will benefit him with his research and educat ional purposes in 
+engineering and similar studies. For membership, one can sign in at  www.ieee.org , or contact 
+INSB.  
+Executive Committee  
+Name of EB  NSU ID  Position in EB  Email  Phone 
+number  
+Wordh Ul Hasan  1330471642  Chair  wordh.u.hasan@ieee.org  01720355421  
+Kimia Tuz Zaman  1430134042  Chair  kimiatuzzaman@gmail.com  01796588922  
+Syed Rafid Hasan  1510472043  Vice Chair  rafidhassan4@gmail.com  01799385674  
+Mohmmad Jahidul 
+Islam  1611139043  General 
+Secretary  jahidul.mohammad@ieee.org  01727704848  
+Mehide Hasan Shifat  1530500043  Treasurer  mehide.shifat.2016@ieee.org  01676592541  
+Zannatul Ferdous   
+WIE AG Chair  zannathought@yahoo.com   
+Touhid Ahmed   
+PES SC Chair  touhid.ahmed@ieee.org  01751578040  
+Tanzil Shahria  1410741042  RAS SC Chair  tanzil50@yahoo.com   
+  
+Branch Counselor  
+Name   NSU ID   Email  Phone Number  
+Tanjila Farah  152007840  tanjila.farah@northsouth.edu  01986332119  
+  
+Branch Advisors  
+Name  Position  Email  
+Rummana Rahman  PES SC Advisor  rummana.rahman@northsouth.edu  
+Dr. Lamia Iftekhar  RAS SC Advisor  lamia.iftekhar@northsouth.edu  
+Dr. Shohana Rahman Deeba  WIE AG Advisor  shohana.deeba@northsouth.edu  
+Dr. M. Shazzad Hosain  IAS SC Advisor  shazzad.hosain@northsouth.edu  
+ 
+ 
+Laboratories  Electrical Circuit Laboratory  
+The Electrical Circuits Laboratory is one of the introductory labs in our university that comprises 
+of DC Circuit Laboratory and AC Circuit Laboratory. For DC Circuit Lab, we familiarize the 
+students with different types of circuit and network theorems. We  use sophisticated DC power 
+supply, Digital Multi Meter, LCR Meter, Trainer Board to implement these theorems. In addition, 
+we also use different values of resistors and other circuitry components. For the AC circuit 
+Laboratory, students are introduced wit h rectifiers, voltage stabilization and various tuning 
+circuits to comprehend and to visualize the real life scenarios. To do so, we provide the students 
+with well -furnished lab consisting of Oscilloscopes, Signal Generators,Function Generators etc. 
+For th e advanced level students we introduce them with more complex circuits like wave 
+generators, resonance. We believe that students are benefited from these laboratory sessions 
+as part of their coursework.  
+Electronics Laboratory  
+The Electronics -I lab is designed to give the students with a practical experience working with 
+applications of operational amplifier, diodes and transistors (BJT, FETs and MOSFETs). The 
+laboratory is complemented in support with the theory taught in the l ectures in order to help the 
+students apply their knowledge of electronics in engineering. The labs also reinforce the 
+concepts discussed in class with a hands -on approach and allow the students to gain significant 
+experience with electrical instruments su ch as function generators, digital multimeters, 
+oscilloscopes, and power supplies.  
+The experiments in Communication Electronics lab is designed to introduce various aspects of 
+analog electronics starting from the simplest concepts leading to practical electronic circuits 
+including amplifiers, integrated circuits, oscillators and voltage regulators. Each workstation in 
+the lab has the necessary equipment: an oscilloscope, a function (signal) generator, a digital 
+multimeter and an experimental box. The independent variable power supply includes a robust 
+current limiting control for supplyin g power to the circuits.  
+The Digital Electronics lab is designed such that the students get a hand on familiarity with the 
+concepts they come across in the Digital Electronics course. This course deals with the basics 
+of digital systems design and is a core module of the B. Sc. El ectrical Engineering coursework 
+as it provides the prerequisites for advance courses in digital electronics. Because of the 
+signiï¬ cance of this course the Lab has been carefully designed to meet the course 
+requirement. The Lab is well equipped with both hardware and software facilities required by the 
+students to perform the necessary experiments designed for this lab. Experiments ar e designed in such a way that the students become well aware of the concepts they learn in the theory 
+sessions.  
+Electrical Machines Laboratory  
+This laboratory is furnished with most advanced Electrical Machine equipment incorporating 
+mobile workstation from Lab Volt Technology to introduce students with the modern cutting edge 
+technology. The lab contains DC Generator to study the OCC/Saturation Curve, DC Motor to 
+study the Torque -Speed Characteristics of both DC Series & Shunt motor. Among the AC 
+Machines, it has Three Phase Synchronous Generator/Alternator to preforming the test of 
+Synchronization of Alternator to the electric power utility syst em with the aid of Synchronizing 
+Module, starting of Three -Phase Synchronous Motor, Three -Phase Four -Pole Squirrel Cage & 
+Wound Rotor Induction Motor to study No load and Full load characteristics, Single Phase Split 
+Phase, Capacitor Start & Capacitor Run Motor to show the Starting & Operating Characteristics 
+and the Single -Phase Transformer to perform the polarity test and voltage regulation on varying 
+loads. It also has 415/240 Volt AC/DC (Fixed & Variable) Power Supply, Resistive Load, 
+Inductive Load, Ca pacitive Load, DC & AC Voltmeter/Ammeter, Single & Three Phase 
+Wattmeter/Varmeter, Rheostat, Electrodynamometer, Digital Tachometer, Timing Belt etc.  
+Power Electronics Laboratory  
+We have one of the advanced Power Electronics equipment from Lab Volt Technology which 
+incorporates the State of the Art teaching & research facilities. This lab has Power Converters 
+i.e. DC -DC Converter (Buck, Boost Chopper); performed by using integrated  IGBT 
+Chopper/Inverter unit incorporating Chopper/Inverter Control module, AC -AC Converter (Full & 
+Half wave Phase Control/Regulator), DC -AC Converter; both Single & Three Phase Inverter 
+(PWM and 180â ° Modulation) controlled by Switching Control Signal Generator unit. It also 
+has AC -DC Controlled Rectifiers (Full & Half wave) named Power Thyristor module controlled 
+with the aid of Thyristor Firing Control Unit and Uncontrolled Rectifiers (Full & Half wa ve) 
+utilizing Power Diode Module. It also has 415/240 Volt AC/DC Fixed & variable Power Supply, 
+AC-DC Voltmeter/ Ammeter, Phase Meter, Single and Three phase Wattmeter, Smoothing 
+Inductor, Smoothing Capacitor, Tandem Rheostats, Function Generator, Oscillos cope. It also 
+has Current/Voltage Isolators to facilitate the view of wave -shapes on the Oscilloscope etc.  
+Electrical Transmission and Distribution Systems Laboratory  
+This laboratory, enriched with Lab -Volt machineries and equipment is devoted to developing a 
+practical understanding of the transmission line link a subject which is usually taught in a strictly 
+theoretical way. The experiments show how changes in the sour ce, the load, and the 
+transmission line affect the overall performance of the system. In particular, they illustrate the 
+meaning of real and reactive power, how the voltage at the end of a line can be lowered or 
+raised, how power can be forced to flow over  one line instead of another, how generators can 
+be synchronized and how a system behaves when subjected to disturbances. Despite their 
+small size, the employed economical, low -power, and safe electric alternators, motors, 
+capacitors, reactors, resistors, meters, transformers, and transmission lines are designed to act 
+in exactly the same way under steady -state and transient conditions, as their larger counter 
+parts in industry. This practical, hands -on course is presented in a way that is readily 
+understan dable by anyone who has knowledge of electricity at the technical school.  
+Control Systems Laboratory  The purpose of the control laboratory is to provide students an opportunity for practical 
+implementation of the concepts that they learn in their control theory class. Using MATLAB and 
+Simulink, open and closed loops systems are designed and simulated. The  students are also 
+able to apply control systems principles on electro -mechanical DC motor, traffic light 
+applications, wind turbine system and digital servo motor using programmable logic controller 
+(PLC), LV Servo Motor and RS Logic 500S.  
+Signals, Systems and Communication Laboratory  
+Signals and Systems laboratory is designed to teach fundamentals of signal properties and 
+system level implementations. Students are required to use MATLAB Communication toolbox, 
+Signal processing toolbox, Simulink extensively to grasp all the fundamentals . This will allow 
+them to interpret LTI systems, Continuous periodic and aperiodic signals and implement with 
+less hardwire complexity. They will also learn spectrum, phase analysis using fast Fourier 
+transformation, discrete Fourier transformation and oth er techniques.  
+Introduction to Communication Systems laboratory is designed to teach more real life 
+communication technologies and their underneath fundamentals of analog and digital 
+modulation techniques such as amplitude modulation, frequency modulation, phase modulati on, 
+quadrature amplitude modulations, pulse code modulation, pulse amplitude modulation, on off 
+keying, phase shift keying etc.   Moreover several channel characteristics like fading, noise 
+properties, bit error rate calculations etc. is frequently investig ated to demonstrate the 
+transmission behaviors. On completion of this laboratory student will be able to precisely identify 
+channel behaviors and recent communication technologies.  
+Digital Signal Processing laboratory aims at teaching students Digital Signal Processing through 
+a host of experiments conducted using MATLAB. Students learn the important concepts of 
+Convolution, Auto Co -relation, Cross Co -relation, Aliasing effects in co mmunication using GNU 
+radio, FIR, IIR, Linear Prediction, Optimum Linear Filters, Adaptive Filtering and its Application 
+in Communication Channels. On completion of this laboratory students will be able to grasp the 
+fundamentals of communication related di gital signal processing and understand the 
+significance of DSP.  
+All these labs are facilitated with state of the art software that include MATLAB, Octave, 
+Simulink, Control System Toolbox, Communication Toolbox, DSP toolbox and other 
+relevant  toolkits.  
+VLSI &Verilog HDLLaboratory  
+VLSI laboratory uses Microwind 3.1 software. By using this software cover layout of different 
+digital logic gates: AND, OR, NAND, NOR, XOR, XNOR Gates, and Complex Gates.  
+In the Verilog HDL Laboratory we use Modelsim 6.5b Software, Xillinx Software, Quartus II 
+Simulator, Altera Cyclone II DE1 Board. For Simulation purpose used Modelsim 6.5b and 
+Quartus II Simulator. For synthesis purpose used Xillinx synthesizer.   Implement  our design on 
+Altera Cyclone II DE1 Board. By using these tools cover Gate Level Modelling,   Data Flow 
+Modelling, Behavioral Modelling, Traffic Control Application, Vending Machine Application.  
+Fiber Optic Communication System  Fiber Optic Communication System laboratory is mandatory laboratory session for Fiber Optic 
+Communication System course. This course introduces the fundamental principles and 
+applications of fiber -optic communication systems. Topics include Attenuation, Di spersion, 
+optical spectrum analysis (With OptiSystem), WDM Mux &Demux Characterization, FBG and 
+Circulator Characterization, Erbium Doped Fiber Amplifier, Time Division Multiplexing of Digital 
+Signals, WDM Fiber Optic Link, Optical Amplification, Adding an d Dropping of Optical Channels, 
+Optical Time Domain Reflectometer and Bit Error Rate & Eye Pattern. Device technology and 
+system design applications are considered. The experiments cover Fiber Characteristics, 
+Component Characteristics, Optical Communicati on system and Testing and Analysis.  
+The Information Systems and Machine Learning Lab  
+The Information Systems and Machine Learning Lab is jointly supervised by Dr Shazzad Hosain 
+and Dr Rashedur Rahman, situated in the Department of ECE. Our university website offers 
+information on our work such as current  research, teaching activities and o ur publications.  
+Starting from 2005, The Information Systems and Machine Learning Lab of NSU has been a 
+center of excellence for fundamental research, teaching, theory, and practice for over eight 
+years. There are quite a few active research groups in the lab. They are working on computer 
+vision, fuzzy theory and systems, bioinformatics, large scale data mining, core ML (machine 
+learning), natural language processing, image processing, cloud computing etc. Our groups 
+work on alternative approach to some cla ssical AI problems, such as pattern recognition, and 
+relies mainly on statistical modeling and self -organization. Our main efforts are focused on 
+developing fundamental understanding of computational learning with applications. The lab has 
+pioneered a numb er of high quality technologies and publication including but not limited to:  
+Large scale convex optimization for learning problems  
+Robust decision making under uncertainty  
+Tracking and Detection of objects in images  
+Video segmentation and summarization  
+Tracking and Detection of objects in videos  
+High volume spatio -temporal sensor data engineering applications  
+Workload characterization, classification and load balancing strategies in cloud computing  
+Our alumni have gone on to play important roles in industr y, government, and education in 
+home and abroad where they are making valiant contributions.  
+Database & Information System Laboratory  
+The Database and Information Systems Laboratory conducts fundamental cutting -edge 
+research and lab sessions in Databases, Data Mining,  Information Retrieval etc. The lab 
+is equipped   with data modeling software like ERWin, DB Diagram, MySQL Workbench etc.  Also 
+at the same time, each machine has Oracle11g Database, MySQL etc. installed for database 
+design, query writing and using ORDBMS capabilities. In order for implementing database 
+project, proper IDE like NetBeans/ Aptana etc. are also used for script w riting and web 
+designing. Nevertheless, there are some supporting graphing tools, for example,  Adobe 
+Photoshop, Illustrator etc. are also available.  
+Internet & Web Programming Laboratory  
+The Internet & Web Laboratory is equipped with state of the art technologies for developing 
+modern web/ mobile applications. In order for writing HTML5 pages the lab PCs have Adobe 
+Dreamweaver, Brackets, NetBeans etc. These tools also support writing CSS, JavaScripts/JQuery etc. Few popular web servers – Wamp/Xampp, IIS7 etc. are also installed 
+for using as localhost. The lab PCs have got data modeling software (ERWin, MySQL 
+Workbench) and Database Systems (Oracle/ SQL Server2010). Each IDE is integrated wi th git 
+for version controlling with some free online services like BitBucket.org,  github.com  etc. The 
+laboratory is connected with high speed internet so that every online sever update happens 
+(through FileZilla etc.) is fast and easy.  
+Computer  Lab  
+The ECE Department at  North South University are well equipped with eight (8) high 
+performance Computer Laboratories to support all types of software related courses and 
+researches. Courses like  Programming Language I and Programming Language II  code 
+programs in C language. Open -source cross -platform IDE (Integrated Development 
+Environment) like  Code::Blocks  is used in this lab. Code::Blocks works under the Windows 7 
+operating system in every lab.  Students code in the editor and build programs using its compiler. 
+They also have the feature of debugging (which includes breaking point) their codes through 
+this I DE. 
+Software Engineering Lab  
+The Software Engineering Lab is basically designed for courses related to the systematic 
+development, operation and maintenance of software. It is equipped with 35 latest Dell Optiplex 
+machines and also provides suitable space for students to work together  and interact with their 
+instructor. All the machines are installed with the relevant software including Rational Rose and 
+AutoCAD. Here, students have to develop a larger piece of software. . The main objective is to 
+learn group work and to gain practical  experience with some software engineering 
+methodologies, methods and supporting tools. Students complete several programming projects 
+of varying size, working individually and in groups.  The lab also has adequate projection 
+facilities for presentations so  that both the instructor can deliver the lecture content and the 
+students can present their projects effectively. The lab is organized into the following phases:  
+▪ System design and specification  
+▪ Component development using extreme programming  
+▪ System integration and system testing  
+Equipment:  
+▪ 35 Dell Computers  ▪ Windows 7  
+▪ Linux (Ubuntu)  
+▪ 67GHz Core i5 processors  
+▪ 4GB RAM  
+▪ Canon MultimediaProjector.  
+Software:  
+▪ IDE – CodeBlocks, Qt Creator, NetBeans, Eclipse  
+▪ Microsoft Visual Studio2013  
+▪ Altium 9.0  
+▪ Matlab /Simulink 2013b  
+▪ Microsoft Office 2013 with Visio & Project  
+▪ Modelsim SE  
+▪ TI Code Composer Studio v5  
+▪ DatabaseMicrosoft SQL Server, Oracle, MySQL, SQLite  
+▪ Server XAMMP, WAMP  
+ 
+  
+ 
+ 
+  
+  
+ 
+  
+ 
